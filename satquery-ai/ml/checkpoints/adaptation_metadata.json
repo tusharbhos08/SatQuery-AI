@@ -1,0 +1,9 @@
+{
+  "dataset": "BigEarthNet",
+  "method": "LoRA (Domain Adaptation)",
+  "epochs": 1,
+  "final_loss": 0.58,
+  "val_accuracy": "81.2%",
+  "checkpoint_path": "C:\\Users\\tusha\\Desktop\\sih hackathon\\satquery-ai\\ml\\checkpoints\\satquery_bigearthnet_lora.pt",
+  "status": "Adapted & Active"
+}
